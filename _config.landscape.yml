@@ -1,0 +1,9 @@
+# Header
+menu:
+  Home: /
+  AboutMe: /about
+  Resume: /resume
+  Linkedin: https://www.linkedin.com/in/christy-a-hayter-5948b0241/
+  GitHub:  https://github.com/Christy131
+  Archives: /archives
+rss: /atom.xml
