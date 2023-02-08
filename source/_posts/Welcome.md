@@ -1,9 +1,8 @@
 ---
-title: Welcome
+title: Welcome to my page
 date: 2023-02-07 21:36:14
 tags:
----
-title: Welcome
+
 ---
 
 “In a gentle way, you can shake the world.”— Mahatma Gandhi
