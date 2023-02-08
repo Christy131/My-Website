@@ -1,9 +1,11 @@
 # Header
+banner: /themes/landscape/Post_Asset_Folder/Inspire1.JPG
 menu:
   Home: /
-  AboutMe: /about
-  Resume: /resume
+  About Me: /about
   Linkedin: https://www.linkedin.com/in/christy-a-hayter-5948b0241/
   GitHub:  https://github.com/Christy131
+  Resume: /resume
+  Contact Me: /contact_me
   Archives: /archives
 rss: /atom.xml

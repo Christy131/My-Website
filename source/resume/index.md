@@ -3,7 +3,9 @@ title: Resume
 date: 2023-02-01 00:35:17
 ---
 
-Christy Hayter
+CHRISTY HAYTER
+![me](/Post-Asset-Folder/IMG_0939.JPG)
+
 
 ____________________________________________________________________
 SKILLS:
