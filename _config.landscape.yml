@@ -1,11 +1,10 @@
-# Header
-banner: /Post-Asset-Folder/Inspire.JPG
+
 menu:
   Home: /
   About Me: /about
   Linkedin: https://www.linkedin.com/in/christy-a-hayter-5948b0241/
   GitHub:  https://github.com/Christy131
   Resume: /resume
-  Contact Me: /contact_me
+  Contact Me: /contact
   Archives: /archives
 rss: /atom.xml

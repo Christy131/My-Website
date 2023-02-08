@@ -6,7 +6,7 @@ menu:
   Home: /
   Archives: /archives
 rss: /atom.xml
-banner: /Post-Asset-Folder/Inspire.JPG
+banner: /Post-Asset-Folder/banner.jpg
 
 # Site
 title: Christy Hayter 
@@ -37,7 +37,8 @@ i18n_dir: :lang
 skip_render:
 About: /about
 Resume: /resume
-Contact_Me: /contact_me
+Contact_Me: /contact
+Banner: /Post-Asset-Folder/banner.jpg
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -99,7 +100,7 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
+include: 
 exclude:
 ignore:
 

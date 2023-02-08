@@ -1,9 +1,8 @@
 ---
 title: Contact Me
-date: 2023-02-07 21:45:30
+date: 2023-02-07 22:46:33
 ---
- 
- <div style="font-family: Roboto; border-radius: 5px; padding: 1px 30px; width: 75%;">
+<div style="font-family: Roboto; border-radius: 5px; padding: 1px 30px; width: 75%;">
    <h2 style="font-size:30px">Contact me here:</h2>
    <form accept-charset="UTF-8" action="https://getform.io/f/f7ab56eb-9a60-4dd6-b51d-a364995d8cdf" method="POST" enctype="multipart/form-data"  target="_blank" id="wpform">
       <div>
@@ -31,4 +30,3 @@ date: 2023-02-07 21:45:30
       <button style="font-size:14px; background-color:#6b7ddf; color:#fff; font-weight:bold; padding:10px 35px; margin: 5px 0 0 0;" type="submit">SUBMIT</button>
    </form>
 </div>
-
